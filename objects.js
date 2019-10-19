@@ -5,5 +5,5 @@ var playlist = {
 var updatePlaylist = {
   playlist: 'nirvana'.
   artistName: 'linking park',
-  songTitle: 'ind the end'
+  songTitle: 'in  the end'
 }
