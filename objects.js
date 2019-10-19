@@ -2,7 +2,7 @@ var playlist = {
   artist: 'linking park',
 }
 
-var updatePlaylist = {
+function updatePlaylist {
   playlist: 'nirvana'.
   artistName: 'linking park',
   songTitle: 'in  the end'
